@@ -59,7 +59,7 @@ while True:
         B = get_random_entry()
 
     else:
-        print(f"Sorry, that’s wrong. Final score: {score}")
+        print(f"Sorry, that’s wrong . Final score: {score}")
 
 
 
